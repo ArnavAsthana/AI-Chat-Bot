@@ -14,6 +14,7 @@ Machine Learning, answers the question you ask from it.
 Just run the main.py file
 
 ```bash
+  pip install psraw
   python main.py
 ```
     
